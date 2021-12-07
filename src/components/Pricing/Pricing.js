@@ -1,6 +1,6 @@
 import React from 'react'
 import './PricingStyles.css'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 const Pricing = () => {
     return (
