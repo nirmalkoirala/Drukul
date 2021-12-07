@@ -1,6 +1,4 @@
 import React from 'react'
-import Contact from '../components/Contact/Contact'
-
 import Footer from '../components/Footer/Footer'
 import Form from '../components/Form'
 import InfoSection from '../components/InfoSection/InfoSection'
